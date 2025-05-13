@@ -22,10 +22,10 @@ Personally, I enjoy reading, philosophy, music, chess and retro video games. I'm
 
 ## Social networks
 
-[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gersonbdev@gmail.com)
-[![X](https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gersonbdev/)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/gersonbdev/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gersonbdev/)
+[![Mail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gersonbenavides@ik.me)
+[![X](https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gersonbenav/)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/gersonbenavid/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gersonbenavid/)
 
 ## Summary
 
