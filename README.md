@@ -1,6 +1,8 @@
 # Gerson Benavides
 
-<img align="right" width="256px" alt="Hero image" src="https://www.gnocky.com/images/favicon/favicon.svg" />
+<p align="center">
+  <img src="https://www.gnocky.com/images/favicon/favicon.svg" alt="Hero image" width="200">
+</p>
 
 Hello, world! I'm an Electronic Engineer and Software Developer. I'm mainly dedicated to Frontend, Backend and Embedded Systems development. I like to create simple and understandable code for others, so I have a great interest in the world of open source and community development.
 
@@ -18,15 +20,14 @@ Personally, I enjoy reading, philosophy, music, chess and retro video games. I'm
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-## Social networks
+## Links
 
 [![Mail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gersonbenavides@outlook.es)
 [![X](https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gersonbenav/)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/gersonbenavid/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gersonbenavid/)
-
-## Summary
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=gersonbenavides&show_icons=true&theme=material-palenight&hide_border=true&locale=en)](https://github.com/gersonbenavides)
+[![Gnocky](https://img.shields.io/badge/Gnocky-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://ko-fi.com/gersonbenavides)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gersonbenavid)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gersonbenavides)
+[![Ko-Fi](https://img.shields.io/badge/More-FFFFFF?style=for-the-badge&logo=undertale&logoColor=E71D29)](https://gersonbenavides.carrd.co/)
