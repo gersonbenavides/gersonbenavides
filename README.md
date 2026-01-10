@@ -23,6 +23,7 @@ Personally, I enjoy reading, philosophy, music, chess and retro video games. I'm
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
+
 ## Links
 
 [![Mail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gersonbenavides@outlook.es)
@@ -30,4 +31,4 @@ Personally, I enjoy reading, philosophy, music, chess and retro video games. I'm
 [![Gnocky](https://img.shields.io/badge/Gnocky-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://ko-fi.com/gersonbenavides)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gersonbenavid)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gersonbenavides)
-[![Ko-Fi](https://img.shields.io/badge/More-FFFFFF?style=for-the-badge&logo=undertale&logoColor=E71D29)](https://gersonbenavides.carrd.co/)
+[![More](https://img.shields.io/badge/More-FFFFFF?style=for-the-badge&logo=undertale&logoColor=E71D29)](https://gersonbenavides.carrd.co/)
